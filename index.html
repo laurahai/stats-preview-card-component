@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stats Preview Card Component</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+    </style> 
+    <link rel="shortcut icon" href="/images/favicon-32x32.png" type="image/x-icon">
+</head>
+<body>
+    <main class="page">
+        <section class="card">
+            <div class="image">
+                <picture>
+                    <source srcset="images/image-header-desktop.jpg 540w"
+                            media="(min-width: 1100px)">
+                    <source srcset="images/image-header-mobile.jpg 654w">
+                    <img src="images/image-header-mobile.jpg" alt="three people sitting around a table using laptops or cellphones">
+                </picture>   
+            </div>
+            <div class="child-padding">
+                <div class="text-content">
+                    <h1>Get <span class="accent">insights</span> that help your business grow.</h1>
+                    <p class="insight-descrip">
+                        Discover the benefits of data analytics and make better decisions regarding revenue, customer experience, and overall efficiency.
+                    </p>
+                    <div class="stats-container">
+                        <div>
+                            <h2 class="stats">10k+</h2>
+                            <p class="small-caps">companies</p>
+                        </div>
+                        <div>
+                            <h2 class="stats">314</h2>
+                            <p class="small-caps">templates</p>
+                        </div>
+                        <div>
+                            <h2 class="stats">12M+</h2>
+                            <p class="small-caps">queries</p>
+                        </div>
+                    </div>
+                </div>            
+            </div>
+        </section>
+    </main>
+</body>
+</html>
