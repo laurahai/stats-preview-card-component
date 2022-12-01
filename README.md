@@ -15,8 +15,12 @@ To build the QR code component so that it looks as close as possible to the desi
 * [Live page URL](https://laurahai.github.io/stats-preview-card-component/)
 * [Frontend Mentor submission](https://www.frontendmentor.io/solutions/reponsive-statistics-card-using-flexbox-2akJjTUszE)
 
-### Comments
-This was the first Frontend Mentor challenge that I did after learning HTML and CSS for two weeks.
+### What I learned  
+This is my first project using responsive layout and media query. I learned about srcset to set different pictures for different devices. I learned how to put the purple "filter" on the picture using mix-blend-mode.
+
+
+
+
 
 
 
