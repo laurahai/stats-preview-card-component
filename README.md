@@ -2,9 +2,9 @@
 Solution to the Frontend Mentor [Stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
 ## The challenge  
-To build the QR code component so that it looks as close as possible to the design.  
-![QR code card](./design/mobile-design.jpg)
-![QR code card](./design/mobile-design.jpg)
+To build the Stats card component so that it looks as close as possible to the design.  
+![Stats card component](./design/mobile-design.jpg)
+![Stats card component](./design/mobile-design.jpg)
 
 ## The solution  
 ### Built with  
