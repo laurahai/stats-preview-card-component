@@ -4,7 +4,7 @@ Solution to the Frontend Mentor [Stats preview card component](https://www.front
 ## The challenge  
 To build the Stats card component so that it looks as close as possible to the design.  
 ![Stats card component](./design/mobile-design.jpg)
-![Stats card component](./design/mobile-design.jpg)
+![Stats card component](./design/desktop-design.jpg)
 
 ## The solution  
 ### Built with  
